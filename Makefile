@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11 -pedantic -D_POSIX_C_SOURCE=200809L
 LDFLAGS = 
-TARGET = sed-simplified
+TARGET = prgrm
 
 SRC_DIR = src
 OBJ_DIR = obj
